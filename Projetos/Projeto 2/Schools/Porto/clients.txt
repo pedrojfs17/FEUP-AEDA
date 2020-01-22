@@ -1,0 +1,6 @@
+Pedro Seixas;M;265962471;17-11-2000;Rua Aldeia Nova de Baixo/119/-/4770-481/Famalicao;pjfseixas.17@gmail.com;999999999;Y;Y;1
+Catarina Fernades;F;123456788;12-12-2000;Rua Pombal/2/2/6300-681/Guarda;cat4450@gmail.com;919977333;N;Y;1
+Thiago Oliveira Sousa;M;123456789;11-02-1973;Rua Calvario/15/-/5300-1253/Braganca;ThiagoOliveiraSousa@armyspy.com;926483966;N;N;4,6;1
+Sofia Correia;F;113499494;10-04-1942;Rua Alferes Veiga Pestana/17/2/9200-211/Agua de Pena;SofiaCorreiaFernandes@teleworm.us;919977333;N;N;2;
+Danilo Goncalves Lima;M;991077152;24-09-1988;Rua Rampa Alta/97/-/4630-607/Vista Alegre;DaniloGoncalvesLima@armyspy.com;9714984733;N;N;4,6;1
+Leonardo Sousa;M;918648264;28-08-1991;Rua Padre Antonio Vieira/95/3/8500-762/Portimao;LeonardoRibeiroSousa@rhyta.com;989712650;Y;Y;1

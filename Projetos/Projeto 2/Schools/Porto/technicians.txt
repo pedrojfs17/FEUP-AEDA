@@ -1,0 +1,3 @@
+Vito;M;269282225;21-11-1988;Rua Barcelo/57/-/4475-224/Algarve;Vitinho@rhyta.com;917676349;12;2/3,5/1,6/2
+Vitor Barroso;M;219285225;21-11-1998;Rua Barcelo/57/-/4475-224/Algarve;Silva@rhyta.com;919276349;2;2/2
+Jorje;F;918273645;01-01-1928;tetse/4/1/2837-151/Poero;alalalala@dlls.com;918473821;2;2/2,3/4

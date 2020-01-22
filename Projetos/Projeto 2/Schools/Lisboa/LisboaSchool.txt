@@ -1,0 +1,11 @@
+Lisboa
+Leopoldina
+1
+clients.txt
+teachers.txt
+classes.txt
+courses.txt
+trips.txt
+materials.txt
+loans.txt
+technicians.txt

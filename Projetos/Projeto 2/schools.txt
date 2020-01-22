@@ -1,0 +1,3 @@
+Faro;Pedro Seixas;0
+Lisboa;Leopoldina;1
+Porto;Pedro Seixas;6

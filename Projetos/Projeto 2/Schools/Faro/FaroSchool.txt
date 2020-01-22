@@ -1,0 +1,11 @@
+Faro
+Pedro Seixas
+0
+clients.txt
+teachers.txt
+classes.txt
+courses.txt
+trips.txt
+materials.txt
+loans.txt
+technicians.txt

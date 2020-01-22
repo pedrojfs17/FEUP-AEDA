@@ -1,0 +1,12 @@
+Surf Course;Y;14:30;MON;Y;30.00;2,5;1
+PaddleSurf Course;Y;16:00;MON;N;15.00;5,6;2
+BodyBoarding Course;Y;10:00;TUE;Y;30.00;5,6;3
+WindSurf;N;10:00;FRI;Y;30.00;5,6;4
+WindSurf Course;N;12:00;FRI;N;15.00;5,6;5
+Surf;N;10:00;WED;N;15.00;5,6;6
+PaddleSurf;N;12:30;THU;Y;30.00;5,6;7
+BodyBoarding;N;09:00;FRI;N;15.00;5,6;8
+Surf;Y;10:00;TUE;N;15.00;5,6;9
+PaddleSurf;N;15:00;MON;N;10.00;5,6;10
+WindSurf;N;10:00;MON;Y;30.00;5,6;11
+BodyBoarding;N;09:00;TUE;N;15.00;5,6;12

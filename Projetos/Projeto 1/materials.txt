@@ -1,0 +1,6 @@
+Surfboard;15.50;20;2
+Body Board;15.00;20;2
+Paddle Board;15.00;20;1
+Paddle;15.00;20;0
+Suit;15.00;30;1
+Boat;15.00;15;3
