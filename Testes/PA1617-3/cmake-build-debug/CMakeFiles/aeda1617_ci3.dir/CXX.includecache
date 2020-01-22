@@ -1,0 +1,20 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1617-3/Tests/User.cpp
+User.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1617-3/Tests/User.h
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1617-3/Tests/User.h
+string
+-
+vector
+-
+utility
+-
+

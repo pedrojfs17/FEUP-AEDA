@@ -1,0 +1,28 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP11/Tests/disjointSets.h
+vector
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP11/Tests/maze.cpp
+maze.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP11/Tests/maze.h
+iostream
+-
+iomanip
+-
+utility
+-
+algorithm
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP11/Tests/maze.h
+disjointSets.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP11/Tests/disjointSets.h
+

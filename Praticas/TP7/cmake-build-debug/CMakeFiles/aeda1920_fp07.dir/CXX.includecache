@@ -1,0 +1,30 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP7/Tests/binaryTree.h
+iostream
+-
+stack
+-
+queue
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP7/Tests/jogo.cpp
+jogo.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP7/Tests/jogo.h
+sstream
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP7/Tests/jogo.h
+binaryTree.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP7/Tests/binaryTree.h
+iostream
+-
+stdlib.h
+-
+

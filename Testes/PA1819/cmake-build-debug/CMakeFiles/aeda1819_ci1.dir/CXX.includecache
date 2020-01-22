@@ -1,0 +1,38 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Account.h
+string
+-
+iostream
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Bank.cpp
+Bank.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Bank.h
+algorithm
+-
+string
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Bank.h
+Account.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Account.h
+vector
+-
+BankOfficer.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/BankOfficer.h
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/BankOfficer.h
+Account.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/PA1819/Tests/Account.h
+string
+-
+vector
+-
+

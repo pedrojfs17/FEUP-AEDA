@@ -1,0 +1,32 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP5/Tests/crianca.h
+string
+-
+sstream
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP5/Tests/jogo.cpp
+jogo.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP5/Tests/jogo.h
+cstdlib
+-
+ctime
+-
+iostream
+-
+
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP5/Tests/jogo.h
+Crianca.h
+C:/Users/pedro/Desktop/FEUP/2 ANO/1 Semestre/AEDA/CLionProjects/TP5/Tests/crianca.h
+list
+-
+string
+-
+
